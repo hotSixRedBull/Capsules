@@ -1,0 +1,21 @@
+capsule-info {
+  display-name (픽미픽미)
+  developer-name (Alan)
+  icon-asset (icon.png)
+  //https://iconmonstr.com/check-mark-circle-thin-png/
+  description ("고민되는 것을 대신 선택해주는 서비스입니다.")
+  website-url (https://example.com/)
+  terms-url (https://example.com/terms-of-use/)
+  dispatch-name (픽미픽미)
+  dispatch-aliases {
+    alias (아무거나 선택기)
+    alias (골라줘)
+    alias (너가 골라줘)
+    alias (선택해줘)
+  }
+  search-keywords {
+    keyword (선택)
+    keyword (픽미픽미)
+    keyword (선택장애)
+  }
+}

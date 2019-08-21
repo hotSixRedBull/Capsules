@@ -1,0 +1,10 @@
+train (t-gljlga5h5devrsv2dr21od4m6) {
+  utterance ("[g:SelectOne] 골라줘 (약속 잡을까)[v:Object] 말까")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566403730433)
+}
+train (t-goc1o8pt40u5imw6whv9t7sbg) {
+  utterance ("[g:SelectOne] (화해할까)[v:Object] 말까 골라줘")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566401056128)
+}

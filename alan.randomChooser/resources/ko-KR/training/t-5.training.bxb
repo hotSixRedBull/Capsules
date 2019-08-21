@@ -1,0 +1,5 @@
+train (t-5zof2inmvtr5scajcmvngw513) {
+  utterance ("[g:SelectOne] 골라줘 염색할건데 (빨간색)[v:Object] 계열이 좋을까 (파란색)[v:Object] 계열이 좋을까 (브라운)[v:Object] 계열이 좋을까")
+  plan (Y2BjUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQlvpSrAyMDEwMzAwsQBYDmA2CjEA2DxgyAGUYgfKsQJoBAA==)
+  last-modified (1566403789619)
+}

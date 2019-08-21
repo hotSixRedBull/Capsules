@@ -1,0 +1,20 @@
+train (t-k01aaenn0i54y6ocvmuwugwef) {
+  utterance ("[g:SelectOne] (앞머리 자를까)[v:Object] 말까")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566403679909)
+}
+train (t-k2dmanc2ueuubq2h4y58vti7w) {
+  utterance ("[g:SelectOne] 골라줘 (앞머리 자를까)[v:Object] 말까")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566403788455)
+}
+train (t-kazcwmsm7k6aolbehkp8035l7) {
+  utterance ("[g:SelectOne] 골라줘 (펌을 할까)[v:Object] 말까")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566403787128)
+}
+train (t-knzl3xbq18qygqt8e2agxt4o7) {
+  utterance ("[g:SelectOne] (먹을까)[v:Object] 말까 골라줘")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566401124389)
+}

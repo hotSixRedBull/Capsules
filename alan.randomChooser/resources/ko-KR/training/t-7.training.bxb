@@ -1,0 +1,20 @@
+train (t-726s9ffxxkp47eyj2vxz1nadw) {
+  utterance ("[g:SelectOne] (주말에 회사 나올까)[v:Object] 말까 골라봐")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566403711641)
+}
+train (t-73tyjthvqrly6sq0h07fw9q3v) {
+  utterance ("[g:SelectOne] (가볼까)[v:Object] 말까 골라봐")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566403707448)
+}
+train (t-74pait97tpi7ee2mwyvn5vlng) {
+  utterance ("[g:SelectOne] (갈까)[v:Object] 말까")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566403703856)
+}
+train (t-7667bkasxgzethuagatsqyz95) {
+  utterance ("[g:SelectOne] (칠)[v:Object]지 말지 고민이야")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566403653331)
+}

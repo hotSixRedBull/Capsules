@@ -1,0 +1,35 @@
+train (t-siog945sdgn7ol0oi26l2is6d) {
+  utterance ("[g:SelectOne] (살까)[v:Object] 말까")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566403665551)
+}
+train (t-siuf9msapcfi1biie896a3ael) {
+  utterance ("[g:SelectOne] (가볼까)[v:Object] 말까 골라줘")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566401154031)
+}
+train (t-sjw3mcsolr39vk4kxy66f7wld) {
+  utterance ("[g:SelectOne] 청바지에 (흰색 반팔티)[v:Object]가 어울릴까요 (셔츠)[v:Object]가 어울릴까요")
+  plan (Y2BlUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQlkwpFgZGBiYGZiDNAGYxAUkGBh4gZACKMkJkAA==)
+  last-modified (1566403675294)
+}
+train (t-snwvt1bpurjf7geb6yeg6xw9a) {
+  utterance ("[g:SelectOne] 점심으로 (한식)[v:Object] 먹을지 (중식)[v:Object] 먹을지 (분식)[v:Object] 먹을지")
+  plan (Y2BjUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQlvpSrAyMDEwMzAwsQBYDmA2CjEA2DxgyAGUYgfKsQJoBAA==)
+  last-modified (1566403673835)
+}
+train (t-socibv8hq1ucxkpwf96sgwnvn) {
+  utterance ("[g:SelectOne] 골라줘 오늘 립스틱 색깔은 (빨강)[v:Object]이 좋을까 (분홍)[v:Object]이 좋을까 (오렌지)[v:Object]가 좋을까")
+  plan (Y2BjUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQlvpSrAyMDEwMzAwsQBYDmA2CjEA2DxgyAGUYgfKsQJoBAA==)
+  last-modified (1566403839520)
+}
+train (t-socx3bd7vfwu2wmdt9523q7b4) {
+  utterance ("[g:SelectOne] (화해할까)[v:Object] 말까")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566403669576)
+}
+train (t-sqz4esc26owfxfl1i4v93rtjz) {
+  utterance ("[g:SelectOne] (떡볶이)[v:Object] 먹을까 (피자)[v:Object] 먹을까")
+  plan (Y2BlUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQlkwpFgZGBiYGZiDNAGYxAUkGBh4gZACKMkJkAA==)
+  last-modified (1566403669061)
+}

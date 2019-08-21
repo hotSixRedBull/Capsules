@@ -1,0 +1,10 @@
+train (t-lmsjs7qorjv78ua084lg74g6p) {
+  utterance ("[g:SelectOne] (퇴근할까)[v:Object] 말까 골라줘")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566401117402)
+}
+train (t-lsspiper70s68dc9xcsvmcuww) {
+  utterance ("[g:SelectOne] (나갈까)[v:Object] 말까 골라봐")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566403712397)
+}

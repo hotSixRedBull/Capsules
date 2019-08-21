@@ -1,0 +1,15 @@
+train (t-wf1x885z733qhb7j3hnwbuedw) {
+  utterance ("[g:SelectOne] (펌을 할까)[v:Object] 말까")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566403678147)
+}
+train (t-wljjwht2u03y0p3w41pv5pnu7) {
+  utterance ("[g:SelectOne] (펌을 할까)[v:Object] 말까 골라줘")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566401023667)
+}
+train (t-wox6njlx7c8y1n8d38c8hb52i) {
+  utterance ("[g:SelectOne] (금연할까)[v:Object] 말까 골라봐")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566403637500)
+}

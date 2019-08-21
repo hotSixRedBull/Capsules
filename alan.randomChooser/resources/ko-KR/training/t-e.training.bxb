@@ -1,0 +1,10 @@
+train (t-eicof855tl5apb4f8h5dgsngp) {
+  utterance ("[g:SelectOne] (손절할까)[v:Object] 말까 골라봐")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566403641746)
+}
+train (t-epvibehpd20oe7pminb4uv7n7) {
+  utterance ("[g:SelectOne] (손절할까)[v:Object] 말까")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566403671599)
+}

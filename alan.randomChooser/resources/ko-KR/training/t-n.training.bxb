@@ -1,0 +1,10 @@
+train (t-noez4jycvpvhstva6splkjpn9) {
+  utterance ("[g:SelectOne] (먹을까)[v:Object] 말까")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566403662698)
+}
+train (t-nuz8tbjrp4icagf2jxivjf198) {
+  utterance ("[g:SelectOne] (파랑)[v:Object] (노랑)[v:Object] (빨강)[v:Object] 중에 하나만")
+  plan (Y2BjUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQlvpSrAyMDEwMzAwsQBYDmA2CjEA2DxgyAGUYgfKsQJoBAA==)
+  last-modified (1566403672163)
+}

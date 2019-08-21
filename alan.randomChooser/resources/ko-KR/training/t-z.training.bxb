@@ -1,0 +1,5 @@
+train (t-zn2jlau03777prne0gq1084xy) {
+  utterance ("[g:SelectOne] (주말에 회사 나올까)[v:Object] 말까")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566403655643)
+}

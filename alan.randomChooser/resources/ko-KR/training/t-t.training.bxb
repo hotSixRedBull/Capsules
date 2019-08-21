@@ -1,0 +1,10 @@
+train (t-tm37xqxvvk8jrcc3pt910duwi) {
+  utterance ("[g:SelectOne] (나갈까)[v:Object] 말까 골라줘")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566401135110)
+}
+train (t-tr6ck8i8263usam4xz109l6r1) {
+  utterance ("[g:SelectOne] (머리를 기를까)[v:Object] 단발로 자를까 골라봐")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566403648636)
+}

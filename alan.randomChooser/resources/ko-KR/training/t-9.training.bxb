@@ -1,0 +1,15 @@
+train (t-99ch9ym5rjpyzmc1p65ruwfud) {
+  utterance ("[g:SelectOne] (금연할까)[v:Object] 말까 골라줘")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566401062325)
+}
+train (t-9ib23pe281kpiq0qk7mc2o6ew) {
+  utterance ("[g:SelectOne] 점심으로 (한식)[v:Object] 먹을지 (중식)[v:Object] 먹을지 (분식)[v:Object] 먹을지 골라봐")
+  plan (Y2BjUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQlvpSrAyMDEwMzAwsQBYDmA2CjEA2DxgyAGUYgfKsQJoBAA==)
+  last-modified (1566403643975)
+}
+train (t-9pq86lbelprq4o7i8il5erz9g) {
+  utterance ("[g:SelectOne] 골라줘 (살까)[v:Object] 말까")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566403728631)
+}

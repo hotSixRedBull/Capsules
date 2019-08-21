@@ -1,0 +1,11 @@
+action (SelectOne) {
+  type(Calculation)
+  description (Making a selection of Objects)
+  collect {
+    input (object) {
+      type (Object)
+      min (Optional) max (Many)
+    }
+  }
+  output (SelectionResult)
+}

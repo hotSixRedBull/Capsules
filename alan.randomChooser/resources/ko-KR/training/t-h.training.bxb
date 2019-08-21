@@ -1,0 +1,10 @@
+train (t-hs4a5qbclba5swyjp8uywg3s0) {
+  utterance ("[g:SelectOne] (파랑)[v:Object] (노랑)[v:Object] (빨강)[v:Object] 중에 하나만 골라봐")
+  plan (Y2BjUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQlvpSrAyMDEwMzAwsQBYDmA2CjEA2DxgyAGUYgfKsQJoBAA==)
+  last-modified (1566403642288)
+}
+train (t-hy7ii9luyg0u9auy9og03h5ov) {
+  utterance ("[g:SelectOne] 골라줘 청바지에 (흰색 반팔티)[v:Object]가 어울릴까요 (셔츠)[v:Object]가 어울릴까요")
+  plan (Y2BlUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQlkwpFgZGBiYGZiDNAGYxAUkGBh4gZACKMkJkAA==)
+  last-modified (1566403838792)
+}

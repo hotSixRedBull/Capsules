@@ -1,0 +1,20 @@
+train (t-i8lcnrqmf721gjichxsy0y26u) {
+  utterance ("[g:SelectOne] 골라줘 (퇴근할까)[v:Object] 퇴근하지 말까")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566403727908)
+}
+train (t-id2g782p69p7jq5xzmyo4zzwy) {
+  utterance ("[g:SelectOne] (떡볶이)[v:Object] 먹을까 (피자)[v:Object] 먹을까 골라봐")
+  plan (Y2BlUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQlkwpFgZGBiYGZiDNAGYxAUkGBh4gZACKMkJkAA==)
+  last-modified (1566403639311)
+}
+train (t-ifi0ykwpbswq3pt03c1losaor) {
+  utterance ("[g:SelectOne] (퇴근할까)[v:Object] 말까 골라봐")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566403718705)
+}
+train (t-ilol8n7f8jnxvoh4pbmhrp54q) {
+  utterance ("[g:SelectOne] (퇴근할까)[v:Object] 퇴근하지 말까")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566403664220)
+}

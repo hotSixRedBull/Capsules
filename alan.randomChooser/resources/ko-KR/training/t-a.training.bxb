@@ -1,0 +1,25 @@
+train (t-a1lp5mvhcu3o47hy7khk4z0hb) {
+  utterance ("[g:SelectOne] (할까)[v:Object] 말까")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566403704502)
+}
+train (t-a1ujk2cnyjc6ro8x8txahnku6) {
+  utterance ("[g:SelectOne] (퇴근할까)[v:Object] 퇴근하지 말까 골라줘")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566401113428)
+}
+train (t-a81zhm88jtnyethfzu7ynqlxt) {
+  utterance ("[g:SelectOne] (볼까)[v:Object] 말까 골라봐")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566403708237)
+}
+train (t-af4wl0q217bq3ybs163kinid8) {
+  utterance ("[g:SelectOne] (칠)[v:Object]지 말지 고민이야 골라줘")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566401145468)
+}
+train (t-athjtnll37nut8h4zz70mf63y) {
+  utterance ("[g:SelectOne] 골라줘 (화해할까)[v:Object] 말까")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566403734008)
+}

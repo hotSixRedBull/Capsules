@@ -1,0 +1,15 @@
+train (t-4hd16c663z3dwfy57sjy7s7k7) {
+  utterance ("[g:SelectOne] (할까)[v:Object] 말까 골라봐")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566403714594)
+}
+train (t-4hq765vcwafu28e948agmw9lf) {
+  utterance ("[g:SelectOne] (화해할까)[v:Object] 말까 골라봐")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566403640063)
+}
+train (t-4iv6k3xap91yun85ctmcvbsoa) {
+  utterance ("[g:SelectOne] (야근해야 할까)[v:Object] 골라줘")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566401149154)
+}

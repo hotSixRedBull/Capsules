@@ -1,0 +1,15 @@
+train (t-q26jmmus5327h5f7g269hd4ft) {
+  utterance ("[g:SelectOne] 골라줘 (나갈까)[v:Object] 말까")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566403686941)
+}
+train (t-q2bx89ds1ye7l575ivrwdc7lg) {
+  utterance ("[g:SelectOne] 청바지에 (흰색 반팔티)[v:Object]가 어울릴까요 (셔츠)[v:Object]가 어울릴까요 골라봐")
+  plan (Y2BlUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQlkwpFgZGBiYGZiDNAGYxAUkGBh4gZACKMkJkAA==)
+  last-modified (1566403646243)
+}
+train (t-q6wj21i86wxccwvhpcm1otuhx) {
+  utterance ("[g:SelectOne] (먹을까)[v:Object] 말까 골라봐")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566403715055)
+}

@@ -1,0 +1,10 @@
+train (t-r0tdqy9e9oteizo5b5k0k8tx7) {
+  utterance ("[g:SelectOne] 오늘 립스틱 색깔은 (빨강)[v:Object]이 좋을까 (분홍)[v:Object]이 좋을까 (오렌지)[v:Object]가 좋을까 골라봐")
+  plan (Y2BjUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQlvpSrAyMDEwMzAwsQBYDmA2CjEA2DxgyAGUYgfKsQJoBAA==)
+  last-modified (1566403644736)
+}
+train (t-rkglj3sak9iqu1qu97assxrzs) {
+  utterance ("[g:SelectOne] (머리를 기를까)[v:Object] 단발로 자를까")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566403677460)
+}

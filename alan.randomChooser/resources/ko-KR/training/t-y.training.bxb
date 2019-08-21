@@ -1,0 +1,30 @@
+train (t-y6lnt0vvbghf4zmafa6s1mies) {
+  utterance ("[g:SelectOne] (할까)[v:Object] 말까 골라줘")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566401127812)
+}
+train (t-y86wp5wm1iqt1s94z2k4vd0zo) {
+  utterance ("[g:SelectOne] (볼까)[v:Object] 말까")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566403652687)
+}
+train (t-ydh0ef47cq8a764mzm2s7ioss) {
+  utterance ("[g:SelectOne] 청바지에 (흰색 반팔티)[v:Object]가 어울릴까요 (셔츠)[v:Object]가 어울릴까요 골라줘")
+  plan (Y2BlUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQlkwpFgZGBiYGZiDNAGYxAUkGBh4gZACKMkJkAA==)
+  last-modified (1566401159338)
+}
+train (t-yeo6fy8jo50sefiucrndl4t89) {
+  utterance ("[g:SelectOne] 염색할건데 (빨간색)[v:Object] 계열이 좋을까 (파란색)[v:Object] 계열이 좋을까 (브라운)[v:Object] 계열이 좋을까 골라봐")
+  plan (Y2BjUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQlvpSrAyMDEwMzAwsQBYDmA2CjEA2DxgyAGUYgfKsQJoBAA==)
+  last-modified (1566403646608)
+}
+train (t-yoaqmy76edr4oarsmp7cs3n7w) {
+  utterance ("[g:SelectOne] 오늘 립스틱 색깔은 (빨강)[v:Object]이 좋을까 (분홍)[v:Object]이 좋을까 (오렌지)[v:Object]가 좋을까")
+  plan (Y2BjUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQlvpSrAyMDEwMzAwsQBYDmA2CjEA2DxgyAGUYgfKsQJoBAA==)
+  last-modified (1566403674482)
+}
+train (t-yto0dq88hc9f5bb0nk6insmg4) {
+  utterance ("[g:SelectOne] 골라줘 (갈까)[v:Object] 말까")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566403724888)
+}

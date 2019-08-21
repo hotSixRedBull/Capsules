@@ -1,0 +1,28 @@
+dialog (Result) {
+  match: SelectionResult(this)
+  if(flag == 'DO') {
+    choose (Random) {
+      template ("음, 제가 골라드릴게요.하세요!")
+      template ("네, 하세요!")
+      template ("하시는게 좋을 것 같아요!")
+    }
+  } else-if (flag == 'DONT') {
+    choose (Random) {
+      template ("음, 제가 골라드릴게요. 하지마세요.")
+      template ("하지마세요.")
+      template ("안그러시는게 좋을 것 같아요!")
+    }
+  } else-if(flag == 'withSuffix') {
+    choose (Random) {
+      template ("음, 제가 골라드릴게요. #{raw(object)}는게 더 좋을 것 같아요.")
+      template ("#{raw(object)}는게 더 좋을 것 같아요.")
+      template ("#{raw(object)}는게 어떨까요?")
+    }
+  } else {
+    choose (Random) {
+      template ("음, 제가 골라드릴게요. #{raw(object)}(이)가 더 좋을 것 같아요.")
+      template ("#{raw(object)}(이)가 더 좋을 것 같아요.")
+      template ("#{raw(object)}(이)가 좋겠어요.")
+    }
+  }
+}

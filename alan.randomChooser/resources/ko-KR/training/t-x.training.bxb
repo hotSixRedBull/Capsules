@@ -1,0 +1,5 @@
+train (t-xemjrqlhkxxd3fkiymfew66e5) {
+  utterance ("[g:SelectOne] (초밥)[v:Object] 먹을까 (치킨)[v:Object] 먹을까 골라봐")
+  plan (Y2BlUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQlkwpFgZGBiYGZiDNAGYxAUkGBh4gZACKMkJkAA==)
+  last-modified (1566403636072)
+}

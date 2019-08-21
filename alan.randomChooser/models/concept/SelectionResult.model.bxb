@@ -1,0 +1,11 @@
+structure (SelectionResult) {
+  description (Result of Selection)
+  property (flag) {
+    type (viv.core.Name)
+    min (Required) max (One)
+  }
+  property (object) {
+    type (Object)
+    min (Required) max (One)
+  }
+}

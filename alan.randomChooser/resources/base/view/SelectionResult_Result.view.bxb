@@ -1,0 +1,6 @@
+result-view {
+  match: SelectionResult(this)
+  render {
+    nothing
+  }
+}

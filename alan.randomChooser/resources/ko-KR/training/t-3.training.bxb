@@ -1,0 +1,25 @@
+train (t-30rfdpfvopwsbu2sibk6fxhg9) {
+  utterance ("[g:SelectOne] 오늘 립스틱 색깔은 (빨강)[v:Object]이 좋을까 (분홍)[v:Object]이 좋을까 (오렌지)[v:Object]가 좋을까 골라줘")
+  plan (Y2BjUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQlvpSrAyMDEwMzAwsQBYDmA2CjEA2DxgyAGUYgfKsQJoBAA==)
+  last-modified (1566401160415)
+}
+train (t-3njhy76ne76jfdonhzmfl4e2f) {
+  utterance ("[g:SelectOne] (주말에 회사 나올)[v:Object]까 말까 골라줘")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566400847380)
+}
+train (t-3njxc76urb0rwlfbv5zhwq03z) {
+  utterance ("[g:SelectOne] 골라줘 (가볼까)[v:Object] 말까")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566403680494)
+}
+train (t-3ruxkjx850agu6wr3ovi5w4vq) {
+  utterance ("[g:SelectOne] (갈까)[v:Object] 말까 골라줘")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566401131736)
+}
+train (t-3zxhtw851fe5bcp3z1xs7lmms) {
+  utterance ("[g:SelectOne] 골라줘 (주말에 회사 나올까)[v:Object] 말까")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566403684508)
+}

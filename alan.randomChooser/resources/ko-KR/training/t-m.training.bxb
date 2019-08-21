@@ -1,0 +1,20 @@
+train (t-m3hpwd3dyxsjynhzbu1bbumt8) {
+  utterance ("[g:SelectOne] (떡볶이)[v:Object] 먹을까 (피자)[v:Object] 먹을까 골라줘")
+  plan (Y2BlUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQlkwpFgZGBiYGZiDNAGYxAUkGBh4gZACKMkJkAA==)
+  last-modified (1566401212494)
+}
+train (t-m96ztgijj6f1tnapns6x633u6) {
+  utterance ("[g:SelectOne] 골라줘 (야근해야 할까)[v:Object]")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1566403683833)
+}
+train (t-mcu48m2i5zccihbw1w1olbker) {
+  utterance ("[g:SelectOne] 염색할건데 (빨간색)[v:Object] 계열이 좋을까 (파란색)[v:Object] 계열이 좋을까 (브라운)[v:Object] 계열이 좋을까 골라줘")
+  plan (Y2BjUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQlvpSrAyMDEwMzAwsQBYDmA2CjEA2DxgyAGUYgfKsQJoBAA==)
+  last-modified (1566401018310)
+}
+train (t-my8ml85nhav5v4j64qzgm4izx) {
+  utterance ("[g:SelectOne] 골라줘 (떡볶이)[v:Object] 먹을까 (피자)[v:Object] 먹을까")
+  plan (Y2BlUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQlkwpFgZGBiYGZiDNAGYxAUkGBh4gZACKMkJkAA==)
+  last-modified (1566403733384)
+}
