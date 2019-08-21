@@ -1,0 +1,2 @@
+# Capsules
+Bixby capsules
