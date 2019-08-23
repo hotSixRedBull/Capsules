@@ -23,6 +23,7 @@ dialog (Result) {
       template ("음, 제가 골라드릴게요. #{raw(object)}(이)가 더 좋을 것 같아요.")
       template ("#{raw(object)}(이)가 더 좋을 것 같아요.")
       template ("#{raw(object)}(이)가 좋겠어요.")
+      template ("저는 #{raw(object)}이요.")
     }
   }
 }
