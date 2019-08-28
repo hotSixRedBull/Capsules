@@ -1,7 +1,7 @@
 capsule {
   //아무거나 선택기
   id (alan.randomChooser)
-  version (0.1.2) //fixed rejection reasons
+  version (0.1.5) //fixed rejection reasons
   format (3)
   targets {
     target (bixby-mobile-ko-KR)
