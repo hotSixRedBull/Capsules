@@ -1,3 +1,8 @@
+train (t-i2qbx49i982kw5huv889e9vs4) {
+  utterance ("[g:SelectOne] (커피 마실까)[v:Object] 말까 골라봐")
+  plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
+  last-modified (1567094353067)
+}
 train (t-i8lcnrqmf721gjichxsy0y26u) {
   utterance ("[g:SelectOne] 골라줘 (퇴근할까)[v:Object] 퇴근하지 말까")
   plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)

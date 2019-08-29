@@ -5,7 +5,7 @@ module.exports.function = function selectOne (object) {
   var flag,object,random;
   if(object == undefined) {
     console.log('case: make one of two');
-    random = Math.floor(Math.random() * (1 - 0)) + 0;
+    random = Math.round(Math.random() * (1 - 0)) + 0;
     if(random == 0) {
       flag = 'DO';
     } else {
@@ -16,7 +16,8 @@ module.exports.function = function selectOne (object) {
     if(object.length == 1) {
       console.log('case: make one of two : 끝이 말까인 경우.');
       flag = 'withSuffix';
-      random = Math.floor(Math.random() * (1 - 0)) + 0;
+      random = Math.round(Math.random() * (1 - 0)) + 0;
+      console.log('random: ' + random);
       if(object[0].length > 1 && object[0][object[0].length-1] == '까') {
         console.log('case: "까"인 경우.');
         object[0] = object[0].substr(0,object[0].length-1);
@@ -30,9 +31,17 @@ module.exports.function = function selectOne (object) {
       }
     } else {
       console.log('case: make one of Many');
-      random = Math.floor(Math.random() * (object.length - 0)) + 0;
-      flag = object[random];
+      random = Math.round(Math.random() * (object.length - 0)) + 0;
       object = object[random];
+      if(object.length > 1 && object[object.length-1] == '까') {
+        flag = 'withSuffix';
+        console.log('case: "까"인 경우.');
+        object = object.substr(0,object.length-1);
+        console.log('object.subst(0,object.length-1): '+object);
+        object = deletingSuffix(object);
+      } else {
+        flag = object[random];
+      }
     }
   }
   console.log('flag: '+flag);
@@ -86,6 +95,9 @@ function deletingSuffix(string) {
   }
   else if(result[result.length-1] == '할') {
     result = result.substr(0,result.length-1) + '하';
+  } 
+  else if(result[result.length-1] == '실') {
+    result = result.substr(0,result.length-1) + '시';
   }
   return result;
 }

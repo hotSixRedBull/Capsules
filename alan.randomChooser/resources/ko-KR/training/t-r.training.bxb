@@ -8,3 +8,8 @@ train (t-rkglj3sak9iqu1qu97assxrzs) {
   plan (Y2BmUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQloGJgRGIGYAkIwMIQPkA)
   last-modified (1566403677460)
 }
+train (t-rwjk3xgsxcaw760sby8hy6tqi) {
+  utterance ("[g:SelectOne] (머리를 기를까)[v:Object] (자를까)[v:Object] 골라줘")
+  plan (Y2BlUErMSczTK0rMS8nPdc7Izy9OLdILTs1JTS7JzM8LSi0uzSlhkMGpxj8vlUESi6x/UhZQlkwpFgZGBiYGZiDNAGYxAUkGBh4gZACKMkJkAA==)
+  last-modified (1567094752738)
+}
