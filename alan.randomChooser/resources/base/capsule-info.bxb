@@ -6,13 +6,11 @@ capsule-info {
   description ("고민되는 것을 대신 선택해주는 서비스입니다.")
   dispatch-name (너가 골라줘)
   dispatch-aliases {
-    alias (아무거나 선택기)
-    alias (골라줘)
-    alias (픽미픽미)
-    alias (선택해줘)
+    alias (니가 골라줘)
   }
   search-keywords {
     keyword (선택)
+    keyword (아무거나)
     keyword (픽미픽미)
     keyword (선택장애)
   }

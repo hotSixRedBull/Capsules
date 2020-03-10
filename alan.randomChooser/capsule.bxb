@@ -1,20 +1,19 @@
 capsule {
   //아무거나 선택기
   id (alan.randomChooser)
-  version (2.0.0) //Accepted
+  version (2.2.0) //Added store-country
   format (3)
   targets {
     target (bixby-mobile-ko-KR)
   }
-  runtime-flags {
-    concepts-inherit-super-type-features
-    modern-prompt-rejection
-    support-halt-effect-in-computed-inputs
-    no-filtering-with-validation
-    modern-default-view-behavior
-  }
+  runtime-version (2)
   store-sections {
     section (GamesAndFun)
     section (Utilities)
+  }
+  store-countries {
+    only {
+      allow (KR)
+    }
   }
 }
